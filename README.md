@@ -1,1 +1,1 @@
-# titan-booking
+# Titan Booking
